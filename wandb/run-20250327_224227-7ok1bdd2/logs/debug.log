@@ -1,0 +1,71 @@
+2025-03-27 22:42:27,719 INFO    MainThread:18350 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-27 22:42:27,720 INFO    MainThread:18350 [wandb_setup.py:_flush():67] Configure stats pid to 18350
+2025-03-27 22:42:27,720 INFO    MainThread:18350 [wandb_setup.py:_flush():67] Loading settings from /Users/invi/.config/wandb/settings
+2025-03-27 22:42:27,720 INFO    MainThread:18350 [wandb_setup.py:_flush():67] Loading settings from /Users/invi/Desktop/invi-gpt/wandb/settings
+2025-03-27 22:42:27,720 INFO    MainThread:18350 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-27 22:42:27,720 INFO    MainThread:18350 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/invi/Desktop/invi-gpt/wandb/run-20250327_224227-7ok1bdd2/logs/debug.log
+2025-03-27 22:42:27,720 INFO    MainThread:18350 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/invi/Desktop/invi-gpt/wandb/run-20250327_224227-7ok1bdd2/logs/debug-internal.log
+2025-03-27 22:42:27,721 INFO    MainThread:18350 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x16e2e5160>
+2025-03-27 22:42:27,724 INFO    MainThread:18350 [wandb_init.py:init():761] calling init triggers
+2025-03-27 22:42:27,724 INFO    MainThread:18350 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.0003, 'epochs': 3, 'batch_size': 8, 'model_config': {'vocab_size': 50257, 'n_positions': 1024, 'n_embd': 768, 'n_layer': 12, 'n_head': 12, 'n_inner': 3072, 'activation_function': 'gelu', 'resid_pdrop': 0.1, 'embd_pdrop': 0.1, 'attn_pdrop': 0.1, 'layer_norm_epsilon': 1e-05, 'initializer_range': 0.02, 'bos_token_id': 50256, 'eos_token_id': 50256}, '_wandb': {}}
+2025-03-27 22:42:27,724 INFO    MainThread:18350 [wandb_init.py:init():784] starting backend
+2025-03-27 22:42:27,724 INFO    MainThread:18350 [wandb_init.py:init():788] sending inform_init request
+2025-03-27 22:42:27,756 INFO    MainThread:18350 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-03-27 22:42:27,757 INFO    MainThread:18350 [wandb_init.py:init():798] backend started and connected
+2025-03-27 22:42:27,767 INFO    MainThread:18350 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-27 22:42:27,769 INFO    MainThread:18350 [wandb_init.py:init():891] updated telemetry
+2025-03-27 22:42:27,769 INFO    MainThread:18350 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-27 22:42:28,446 INFO    MainThread:18350 [wandb_init.py:init():990] starting run threads in backend
+2025-03-27 22:42:28,746 INFO    MainThread:18350 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-27 22:42:28,746 INFO    MainThread:18350 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-27 22:42:28,747 INFO    MainThread:18350 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-27 22:42:28,747 INFO    MainThread:18350 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-27 22:42:28,750 INFO    MainThread:18350 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-27 22:42:29,513 INFO    MainThread:18350 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-27 22:42:29,513 INFO    MainThread:18350 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-27 22:43:22,505 INFO    MainThread:18350 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-27 22:43:33,384 INFO    MainThread:18350 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-27 22:43:33,384 INFO    MainThread:18350 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-27 22:44:23,797 INFO    MainThread:18350 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-27 22:44:34,927 INFO    MainThread:18350 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-27 22:44:34,931 INFO    MainThread:18350 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-27 22:45:05,845 INFO    MainThread:18350 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-27 22:45:16,156 INFO    MainThread:18350 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-27 22:45:16,156 INFO    MainThread:18350 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-27 22:45:28,468 INFO    MainThread:18350 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-27 22:45:28,477 INFO    MainThread:18350 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-27 22:45:28,477 INFO    MainThread:18350 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-27 22:45:30,824 INFO    MainThread:18350 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-27 22:45:52,782 INFO    MainThread:18350 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-27 22:45:52,783 INFO    MainThread:18350 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-27 22:46:10,231 INFO    MainThread:18350 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-27 22:46:10,237 INFO    MainThread:18350 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-27 22:46:10,237 INFO    MainThread:18350 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-27 22:46:12,939 INFO    MainThread:18350 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-27 22:46:12,941 INFO    MainThread:18350 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-27 22:46:12,942 INFO    MainThread:18350 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-27 22:46:22,771 INFO    MainThread:18350 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-27 22:46:22,778 INFO    MainThread:18350 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-27 22:46:22,778 INFO    MainThread:18350 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-27 22:46:31,866 INFO    MainThread:18350 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-27 22:46:31,868 INFO    MainThread:18350 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-27 22:46:31,869 INFO    MainThread:18350 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-27 22:46:36,462 INFO    MainThread:18350 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-27 22:46:40,181 INFO    MainThread:18350 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/invi/Desktop/invi-gpt/wandb/run-20250327_224640-9rslt9rg/logs/debug.log
+2025-03-27 22:46:40,182 INFO    MainThread:18350 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/invi/Desktop/invi-gpt/wandb/run-20250327_224640-9rslt9rg/logs/debug-internal.log
+2025-03-27 22:46:40,182 INFO    MainThread:18350 [wandb_init.py:init():761] calling init triggers
+2025-03-27 22:46:40,182 INFO    MainThread:18350 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.0003, 'epochs': 1, 'batch_size': 8, 'model_config': {'vocab_size': 50257, 'n_positions': 1024, 'n_embd': 768, 'n_layer': 12, 'n_head': 12, 'n_inner': 3072, 'activation_function': 'gelu', 'resid_pdrop': 0.1, 'embd_pdrop': 0.1, 'attn_pdrop': 0.1, 'layer_norm_epsilon': 1e-05, 'initializer_range': 0.02, 'bos_token_id': 50256, 'eos_token_id': 50256}, '_wandb': {}}
+2025-03-27 22:46:40,182 INFO    MainThread:18350 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-27 22:46:40,379 INFO    MainThread:18350 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-27 22:46:40,379 INFO    MainThread:18350 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-27 22:47:30,328 INFO    MainThread:18350 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-27 22:47:34,106 INFO    MainThread:18350 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/invi/Desktop/invi-gpt/wandb/run-20250327_224734-wvois57v/logs/debug.log
+2025-03-27 22:47:34,107 INFO    MainThread:18350 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/invi/Desktop/invi-gpt/wandb/run-20250327_224734-wvois57v/logs/debug-internal.log
+2025-03-27 22:47:34,108 INFO    MainThread:18350 [wandb_init.py:init():761] calling init triggers
+2025-03-27 22:47:34,108 INFO    MainThread:18350 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.0003, 'epochs': 1, 'batch_size': 8, 'model_config': {'vocab_size': 50257, 'n_positions': 1024, 'n_embd': 768, 'n_layer': 12, 'n_head': 12, 'n_inner': 3072, 'activation_function': 'gelu', 'resid_pdrop': 0.1, 'embd_pdrop': 0.1, 'attn_pdrop': 0.1, 'layer_norm_epsilon': 1e-05, 'initializer_range': 0.02, 'bos_token_id': 50256, 'eos_token_id': 50256}, '_wandb': {}}
+2025-03-27 22:47:34,108 INFO    MainThread:18350 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-27 22:47:34,304 INFO    MainThread:18350 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-27 22:47:34,304 INFO    MainThread:18350 [wandb_init.py:_pause_backend():564] pausing backend

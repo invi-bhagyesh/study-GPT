@@ -1,0 +1,47 @@
+{"time":"2025-03-27T22:25:17.486543+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/invi/Desktop/invi-gpt/wandb/run-20250327_222517-b7vgmplf/logs/debug-core.log"}
+{"time":"2025-03-27T22:25:18.222108+05:30","level":"INFO","msg":"created new stream","id":"b7vgmplf"}
+{"time":"2025-03-27T22:25:18.222387+05:30","level":"INFO","msg":"stream: started","id":"b7vgmplf"}
+{"time":"2025-03-27T22:25:18.222708+05:30","level":"INFO","msg":"handler: started","stream_id":"b7vgmplf"}
+{"time":"2025-03-27T22:25:18.222927+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"b7vgmplf"}
+{"time":"2025-03-27T22:25:18.22348+05:30","level":"INFO","msg":"sender: started","stream_id":"b7vgmplf"}
+{"time":"2025-03-27T22:25:18.846724+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-27T22:25:19.197304+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-27T22:27:34.007935+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.89.4.10:60650->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-27T22:27:34.791387+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/invi-bhagyesh-manipal/gpt2-pretraining/b7vgmplf/file_stream\": EOF"}
+{"time":"2025-03-27T22:27:36.352473+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-03-27T22:27:36.961361+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/invi-bhagyesh-manipal/gpt2-pretraining/b7vgmplf/file_stream\": EOF"}
+{"time":"2025-03-27T22:27:41.101502+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/invi-bhagyesh-manipal/gpt2-pretraining/b7vgmplf/file_stream\": EOF"}
+{"time":"2025-03-27T22:27:41.237109+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-03-27T22:27:49.350611+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-03-27T22:27:49.834585+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/invi-bhagyesh-manipal/gpt2-pretraining/b7vgmplf/file_stream\": EOF"}
+{"time":"2025-03-27T22:28:07.265099+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/invi-bhagyesh-manipal/gpt2-pretraining/b7vgmplf/file_stream\": EOF"}
+{"time":"2025-03-27T22:28:09.182578+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-03-27T22:28:44.815452+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/invi-bhagyesh-manipal/gpt2-pretraining/b7vgmplf/file_stream\": EOF"}
+{"time":"2025-03-27T22:28:49.170668+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-03-27T22:29:44.844747+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/invi-bhagyesh-manipal/gpt2-pretraining/b7vgmplf/file_stream\": EOF"}
+{"time":"2025-03-27T22:29:49.194349+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-03-27T22:30:44.911516+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/invi-bhagyesh-manipal/gpt2-pretraining/b7vgmplf/file_stream\": EOF"}
+{"time":"2025-03-27T22:30:49.21522+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-03-27T22:31:44.980581+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/invi-bhagyesh-manipal/gpt2-pretraining/b7vgmplf/file_stream\": EOF"}
+{"time":"2025-03-27T22:31:49.238407+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-03-27T22:32:45.030777+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/invi-bhagyesh-manipal/gpt2-pretraining/b7vgmplf/file_stream\": EOF"}
+{"time":"2025-03-27T22:32:49.274588+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-03-27T22:33:45.073051+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/invi-bhagyesh-manipal/gpt2-pretraining/b7vgmplf/file_stream\": EOF"}
+{"time":"2025-03-27T22:33:49.313824+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-03-27T22:34:45.085305+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/invi-bhagyesh-manipal/gpt2-pretraining/b7vgmplf/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-27T22:34:49.318589+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-27T22:37:17.475941+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-27T22:37:17.479889+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-27T22:37:21.00631+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-27T22:37:21.013701+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-27T22:37:21.035151+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-27T22:37:21.050151+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-27T22:37:21.357701+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-27T22:37:21.373387+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-27T22:37:21.639357+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-27T22:37:21.642874+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-27T22:37:26.219558+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-27T22:37:26.221876+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-27T22:37:28.658707+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-27T22:37:28.661838+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-27T22:38:17.971647+05:30","level":"INFO","msg":"Resuming system monitor"}

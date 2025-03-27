@@ -1,0 +1,40 @@
+{
+  "os": "macOS-15.2-arm64-arm-64bit-Mach-O",
+  "python": "CPython 3.13.2",
+  "startedAt": "2025-03-27T17:12:27.758137Z",
+  "program": "/Users/invi/Desktop/invi-gpt/training.ipynb",
+  "codePath": "training.ipynb",
+  "email": "kumarbhagyesh.invi@icloud.com",
+  "root": "/Users/invi/Desktop/invi-gpt",
+  "host": "Bhagyeshs-MacBook-Air.local",
+  "executable": "/Users/invi/Desktop/invi-gpt/env/bin/python",
+  "codePathLocal": "training.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "114788753408"
+    },
+    "/System/Volumes/Data": {
+      "total": "245107195904",
+      "used": "114788753408"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "apple": {
+    "name": "Apple M2",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 8,
+    "memoryGb": 8,
+    "swapTotalBytes": "5368709120",
+    "ramTotalBytes": "8589934592"
+  }
+}

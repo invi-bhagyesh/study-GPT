@@ -1,0 +1,17 @@
+2025-03-27 23:00:03,430 INFO    MainThread:19695 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/invi/Desktop/invi-gpt/wandb/run-20250327_230003-5gtr23to/logs/debug.log
+2025-03-27 23:00:03,431 INFO    MainThread:19695 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/invi/Desktop/invi-gpt/wandb/run-20250327_230003-5gtr23to/logs/debug-internal.log
+2025-03-27 23:00:03,431 INFO    MainThread:19695 [wandb_init.py:init():761] calling init triggers
+2025-03-27 23:00:03,431 INFO    MainThread:19695 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.0003, 'epochs': 1, 'batch_size': 8, 'model_config': {'vocab_size': 50257, 'n_positions': 1024, 'n_embd': 768, 'n_layer': 12, 'n_head': 12, 'n_inner': 3072, 'activation_function': 'gelu', 'resid_pdrop': 0.1, 'embd_pdrop': 0.1, 'attn_pdrop': 0.1, 'layer_norm_epsilon': 1e-05, 'initializer_range': 0.02, 'bos_token_id': 50256, 'eos_token_id': 50256}, '_wandb': {}}
+2025-03-27 23:00:03,431 INFO    MainThread:19695 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-27 23:00:03,624 INFO    MainThread:19695 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-27 23:00:03,624 INFO    MainThread:19695 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-27 23:00:27,848 INFO    MainThread:19695 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-27 23:00:58,923 INFO    MainThread:19695 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/invi/Desktop/invi-gpt/wandb/run-20250327_230058-nal3oxp5/logs/debug.log
+2025-03-27 23:00:58,925 INFO    MainThread:19695 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/invi/Desktop/invi-gpt/wandb/run-20250327_230058-nal3oxp5/logs/debug-internal.log
+2025-03-27 23:00:58,925 INFO    MainThread:19695 [wandb_init.py:init():761] calling init triggers
+2025-03-27 23:00:58,925 INFO    MainThread:19695 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.0003, 'epochs': 3, 'batch_size': 8, 'model_config': {'vocab_size': 50257, 'n_positions': 1024, 'n_embd': 768, 'n_layer': 12, 'n_head': 12, 'n_inner': 3072, 'activation_function': 'gelu', 'resid_pdrop': 0.1, 'embd_pdrop': 0.1, 'attn_pdrop': 0.1, 'layer_norm_epsilon': 1e-05, 'initializer_range': 0.02, 'bos_token_id': 50256, 'eos_token_id': 50256}, '_wandb': {}}
+2025-03-27 23:00:58,925 INFO    MainThread:19695 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-27 23:00:58,999 INFO    MainThread:19695 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-27 23:00:58,999 INFO    MainThread:19695 [wandb_init.py:_pause_backend():564] pausing backend
